@@ -11,7 +11,7 @@ th, td {
     text-align: left;
     padding: 8px;
 }
-asdasdadasd
+
 tr:nth-child(even){background-color: #91e842;
   color: grey;
 
@@ -22,7 +22,7 @@ tr:nth-child(odd){background-color: #91e842;
   color: grey;
 }
 
-
+$as = 0;
 th {
     background-color: #4e590e;
     color: white;
